@@ -2,6 +2,4 @@
 streamlit
 pandas
 scikit-learn
-joblib
-# Dependencies for Iris Flower Predictor
-
+joblib==1.5.2
